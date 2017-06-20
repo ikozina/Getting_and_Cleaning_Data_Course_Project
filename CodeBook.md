@@ -1,5 +1,4 @@
-# Tidy data set
-
+# Description of variables in tidy data set
 ##subject_id
 	The group of 30 volunteers who carried out the experiment
 		1   subject 1
