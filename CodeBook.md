@@ -1,5 +1,5 @@
 # Description of variables in tidy data set
-##subject_id
+##  subject_id
 	The group of 30 volunteers who carried out the experiment
 		1   subject 1
 		2   subject 2
@@ -32,7 +32,7 @@
 		29  subject 29
 		30  subject 30
 
-##activity
+## activity
 	The six activities that each person performed
 		WALKING
 		WALKING_UPSTAIRS
@@ -41,200 +41,200 @@
 		STANDING
 		LAYING
 
-##tBodyAcc-mean()-X
+## tBodyAcc-mean()-X
 	Average of mean of body acceleration signal in time domain (from the accelerometer). X axis.
 
-##tBodyAcc-mean()-Y
+## tBodyAcc-mean()-Y
 	Average of mean of body acceleration signal in time domain (from the accelerometer). Y axis.
 
-##tBodyAcc-mean()-Z
+## tBodyAcc-mean()-Z
 	Average of mean of body acceleration signal in time domain (from the accelerometer). Z axis.
 
-##tBodyAcc-std()-X
+## tBodyAcc-std()-X
 	Average of standard deviation of body acceleration signal in time domain (from the accelerometer). X axis.
 	
-##tBodyAcc-std()-Y
+## tBodyAcc-std()-Y
 	Average of standard deviation of body acceleration signal in time domain (from the accelerometer). Y axis.
 	
-##tBodyAcc-std()-Z
+## tBodyAcc-std()-Z
 	Average of standard deviation of body acceleration signal in time domain (from the accelerometer). Z axis.
 	
-##tGravityAcc-mean()-X
+## tGravityAcc-mean()-X
 	Average of mean of gravity acceleration signal in time domain (from the accelerometer). X axis.
 	                                                                   
-##tGravityAcc-mean()-Y                                                 
+## tGravityAcc-mean()-Y                                                 
 	Average of mean of gravity acceleration signal in time domain (from the accelerometer). Y axis.
 	                                                                   
-##tGravityAcc-mean()-Z                                                 
+## tGravityAcc-mean()-Z                                                 
 	Average of mean of gravity acceleration signal in time domain (from the accelerometer). Z axis.
 	
-##tGravityAcc-std()-X
+## tGravityAcc-std()-X
 	Average of standard deviation of gravity acceleration signal in time domain (from the accelerometer). X axis.
 	                                                                   
-##tGravityAcc-std()-Y                                                  
+## tGravityAcc-std()-Y                                                  
 	Average of standard deviation of gravity acceleration signal in time domain (from the accelerometer). Y axis.
 	                                                                   
-##tGravityAcc-std()-Z                                                  
+## tGravityAcc-std()-Z                                                  
 	Average of standard deviation of gravity acceleration signal in time domain (from the accelerometer). Z axis.
 	
-##tBodyAccJerk-mean()-X
+## tBodyAccJerk-mean()-X
 	Average of mean of body acceleration jerk signal in time domain (from the accelerometer). X axis.
 	                                                                     
-##tBodyAccJerk-mean()-Y                                                  
+## tBodyAccJerk-mean()-Y                                                  
 	Average of mean of body acceleration jerk signal in time domain (from the accelerometer). Y axis.
 	                                                                     
-##tBodyAccJerk-mean()-Z                                                  
+## tBodyAccJerk-mean()-Z                                                  
 	Average of mean of body acceleration jerk signal in time domain (from the accelerometer). Z axis.
 	
-##tBodyAccJerk-std()-X
+## tBodyAccJerk-std()-X
 	Average of standard deviation of body acceleration jerk signal in time domain (from the accelerometer). X axis.
 	                                                                     
-##tBodyAccJerk-std()-Y                                                   
+## tBodyAccJerk-std()-Y                                                   
 	Average of standard deviation of body acceleration jerk signal in time domain (from the accelerometer). Y axis.
 	                                                                     
-##tBodyAccJerk-std()-Z                                                   
+## tBodyAccJerk-std()-Z                                                   
 	Average of standard deviation of body acceleration jerk signal in time domain (from the accelerometer). Z axis.
 	
-##tBodyGyro-mean()-X
+## tBodyGyro-mean()-X
 	Average of mean of body acceleration signal in time domain (from the gyroscope). X axis.
 	                                                            
-##tBodyGyro-mean()-Y                                            
+## tBodyGyro-mean()-Y                                            
 	Average of mean of body acceleration signal in time domain (from the gyroscope). Y axis.
 	                                                            
-##tBodyGyro-mean()-Z                                            
+## tBodyGyro-mean()-Z                                            
 	Average of mean of body acceleration signal in time domain (from the gyroscope). Z axis.
 	
-##tBodyGyro-std()-X
+## tBodyGyro-std()-X
 	Average of standard deviation of body acceleration signal in time domain (from the gyroscope). X axis.
 	                                                            
-##tBodyGyro-std()-Y                                             
+## tBodyGyro-std()-Y                                             
 	Average of standard deviation of body acceleration signal in time domain (from the gyroscope). Y axis.
 	                                                            
-##tBodyGyro-std()-Z                                             
+## tBodyGyro-std()-Z                                             
 	Average of standard deviation of body acceleration signal in time domain (from the gyroscope). Z axis.
 	
-##tBodyGyroJerk-mean()-X
+## tBodyGyroJerk-mean()-X
 	Average of mean of body acceleration jerk signal in time domain (from the gyroscope). X axis.
 	                                                                 
-##tBodyGyroJerk-mean()-Y                                             
+## tBodyGyroJerk-mean()-Y                                             
 	Average of mean of body acceleration jerk signal in time domain (from the gyroscope). Y axis.
 	                                                                 
-##tBodyGyroJerk-mean()-Z                                             
+## tBodyGyroJerk-mean()-Z                                             
 	Average of mean of body acceleration jerk signal in time domain (from the gyroscope). Z axis.
 	
-##tBodyGyroJerk-std()-X
+## tBodyGyroJerk-std()-X
 	Average of standard deviation of body acceleration jerk signal in time domain (from the gyroscope). X axis.
 	                                                                 
-##tBodyGyroJerk-std()-Y                                              
+## tBodyGyroJerk-std()-Y                                              
 	Average of standard deviation of body acceleration jerk signal in time domain (from the gyroscope). Y axis.
 	                                                                 
-##tBodyGyroJerk-std()-Z                                              
+## tBodyGyroJerk-std()-Z                                              
 	Average of standard deviation of body acceleration jerk signal in time domain (from the gyroscope). Z axis.
 	
-##tBodyAccMag-mean()
+## tBodyAccMag-mean()
 	Average of mean of body acceleration signal in time domain applied to Fast Fourier Transform(from the accelerometer)
 
-##tBodyAccMag-std()
+## tBodyAccMag-std()
 	Average of standard deviation of body acceleration signal in time domain applied to Fast Fourier Transform(from the accelerometer)
 	
-##tGravityAccMag-mean()
+## tGravityAccMag-mean()
 	Average of mean of gravity acceleration signal in time domain applied to Fast Fourier Transform(from the accelerometer)
 	
-##tGravityAccMag-std()
+## tGravityAccMag-std()
 	Average of standard deviation of gravity acceleration signal in time domain applied to Fast Fourier Transform(from the accelerometer)
 	
-##tBodyAccJerkMag-mean()
+## tBodyAccJerkMag-mean()
 	Body acceleration jerk signal in time domain applied to Fast Fourrier Transform (from the accelerometer)
 	
-##tBodyAccJerkMag-std()
+## tBodyAccJerkMag-std()
 	Body acceleration jerk signal in time domain applied to Fast Fourrier Transform (from the accelerometer)
 	
-##tBodyGyroMag-mean()
+## tBodyGyroMag-mean()
 	Body acceleration signal in time domain applied to Fast Fourrier Transform(from the gyroscope)
 	
-##tBodyGyroMag-std()
+## tBodyGyroMag-std()
 	Body acceleration signal in time domain applied to Fast Fourrier Transform(from the gyroscope)
 	
-##tBodyGyroJerkMag-mean()
+## tBodyGyroJerkMag-mean()
 	Body acceleration jerk signal in time domain applied to Fast Fourrier Transform(from the gyroscope)
 	
-##tBodyGyroJerkMag-std()
+## tBodyGyroJerkMag-std()
 	Body acceleration jerk signal in time domain applied to Fast Fourrier Transform(from the gyroscope)
 	
-##fBodyAcc-mean()-X
+## fBodyAcc-mean()-X
 	Body acceleration signal in frequence domain (from the accelerometer). X axis.
 	                                                                     
-##fBodyAcc-mean()-Y                                                      
+## fBodyAcc-mean()-Y                                                      
 	Body acceleration signal in frequence domain (from the accelerometer). Y axis.
 	                                                                     
-##fBodyAcc-mean()-Z                                                      
+## fBodyAcc-mean()-Z                                                      
 	Body acceleration signal in frequence domain (from the accelerometer). Z axis.
 	
-##fBodyAcc-std()-X
+## fBodyAcc-std()-X
 	Body acceleration signal in frequence domain (from the accelerometer). X axis.
 	                                                                     
-##fBodyAcc-std()-Y                                                       
+## fBodyAcc-std()-Y                                                       
 	Body acceleration signal in frequence domain (from the accelerometer). Y axis.
 	                                                                     
-##fBodyAcc-std()-Z                                                       
+## fBodyAcc-std()-Z                                                       
 	Body acceleration signal in frequence domain (from the accelerometer). Z axis.
 	
-##fBodyAccJerk-mean()-X
+## fBodyAccJerk-mean()-X
 	Body acceleration jerk signal in frequence domain (from the accelerometer). X axis.
 	                                                                          
-##fBodyAccJerk-mean()-Y                                                       
+## fBodyAccJerk-mean()-Y                                                       
 	Body acceleration jerk signal in frequence domain (from the accelerometer). Y axis.
 	                                                                          
-##fBodyAccJerk-mean()-Z                                                       
+## fBodyAccJerk-mean()-Z                                                       
 	Body acceleration jerk signal in frequence domain (from the accelerometer). Z axis.
 	
-##fBodyAccJerk-std()-X
+## fBodyAccJerk-std()-X
 	Body acceleration jerk signal in frequence domain (from the accelerometer). X axis.
 	                                                                          
-##fBodyAccJerk-std()-Y                                                        
+## fBodyAccJerk-std()-Y                                                        
 	Body acceleration jerk signal in frequence domain (from the accelerometer). Y axis.
 	                                                                          
-##fBodyAccJerk-std()-Z                                                        
+## fBodyAccJerk-std()-Z                                                        
 	Body acceleration jerk signal in frequence domain (from the accelerometer). Z axis.
 	
-##fBodyGyro-mean()-X
+## fBodyGyro-mean()-X
 	Body acceleration signal in frequence domain (from the gyroscope). X axis.
 	                                                                 
-##fBodyGyro-mean()-Y                                                 
+## fBodyGyro-mean()-Y                                                 
 	Body acceleration signal in frequence domain (from the gyroscope). Y axis.
 	                                                                 
-##fBodyGyro-mean()-Z                                                 
+## fBodyGyro-mean()-Z                                                 
 	Body acceleration signal in frequence domain (from the gyroscope). Z axis.
 	
-##fBodyGyro-std()-X
+## fBodyGyro-std()-X
 	Body acceleration signal in frequence domain (from the gyroscope). X axis.
 	                                                                 
-##fBodyGyro-std()-Y                                                  
+## fBodyGyro-std()-Y                                                  
 	Body acceleration signal in frequence domain (from the gyroscope). Y axis.
 	                                                                 
-##fBodyGyro-std()-Z                                                  
+## fBodyGyro-std()-Z                                                  
 	Body acceleration signal in frequence domain (from the gyroscope). Z axis.
 	
-##fBodyAccMag-mean()
+## fBodyAccMag-mean()
 	Body acceleration signal in frequence domain applied to Fast Fourier Transform(from the accelerometer)
 	
-##fBodyAccMag-std()
+## fBodyAccMag-std()
 	Body acceleration signal in frequence domain applied to Fast Fourier Transform(from the accelerometer)
 	
-##fBodyBodyAccJerkMag-mean()
+## fBodyBodyAccJerkMag-mean()
 	Body acceleration jerk signal in frequence domain applied to Fast Fourrier Transform (from the accelerometer)
 	
-##fBodyBodyAccJerkMag-std()
+## fBodyBodyAccJerkMag-std()
 	Body acceleration jerk signal in frequence domain applied to Fast Fourrier Transform (from the accelerometer)
 	
-##fBodyBodyGyroMag-mean()
+## fBodyBodyGyroMag-mean()
 	Body acceleration signal in frequence domain applied to Fast Fourier Transform (from the gyroscope)
 	
-##fBodyBodyGyroMag-std()
+## fBodyBodyGyroMag-std()
 	Body acceleration signal in frequence domain applied to Fast Fourier Transform (from the gyroscope)
 	
-##fBodyBodyGyroJerkMag-mean()
+## fBodyBodyGyroJerkMag-mean()
 	Body acceleration jerk signal in frequence domain applied to Fast Fourier Transform (from the gyroscope)
 	
-##fBodyBodyGyroJerkMag-std()
+## fBodyBodyGyroJerkMag-std()
 	Body acceleration jerk signal in frequence domain applied to Fast Fourier Transform (from the gyroscope)
